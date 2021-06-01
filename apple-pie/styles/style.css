@@ -1,0 +1,56 @@
+.list {
+ padding: 0;
+list-style: none;
+font-size: 1.2em;
+text-align: justify;
+width: 45%;     
+margin: 17px auto;
+}
+
+h3{
+ padding: 0;
+text-align: justify;
+width: 45%;
+margin: 17px auto;
+}
+
+.hero-text {
+  text-align: justify;
+  font-size: 4em;   
+  position: absolute;
+  top: 43%;
+  left: 51%;
+  bottom: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.text {
+text-align: justify;
+padding: 0;
+list-style: none;
+font-size: 1.2em;
+width: 45%;
+margin: 17px auto;
+font-family: "Open Sans", sans-serif;
+}
+
+.Apple{
+height: 650px;
+padding: 30px;
+display: flex;
+justify-content: space-evenly;
+}
+
+figure{
+padding: 0;
+display: flex;
+justify-content: space-evenly;
+
+}
+
+hr{
+
+    width: 57%;
+    
+}
